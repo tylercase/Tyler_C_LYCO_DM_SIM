@@ -1,0 +1,2 @@
+This repository includes the work of Tyler Case from an independent research project under the guidance of 
+Dr. Emily Wilson at Lycoming College. This work was to model the Dark Matter (DM) mass distribution of the Milky Way Galaxy. This model was compared to observational data obtained from RAVE and Gaia astronomical surveys in order to validate its accuracy. 
